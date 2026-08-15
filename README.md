@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1800-maximum-ascending-subarray-sum](https://github.com/Tuba1809/LeetCode/tree/master/1800-maximum-ascending-subarray-sum) |
 | [2460-apply-operations-to-an-array](https://github.com/Tuba1809/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/Tuba1809/LeetCode/tree/master/2562-find-the-array-concatenation-value) |
+| [3175-find-the-first-player-to-win-k-games-in-a-row](https://github.com/Tuba1809/LeetCode/tree/master/3175-find-the-first-player-to-win-k-games-in-a-row) |
 | [3208-alternating-groups-ii](https://github.com/Tuba1809/LeetCode/tree/master/3208-alternating-groups-ii) |
 | [3394-check-if-grid-can-be-cut-into-sections](https://github.com/Tuba1809/LeetCode/tree/master/3394-check-if-grid-can-be-cut-into-sections) |
 | [3477-fruits-into-baskets-ii](https://github.com/Tuba1809/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/Tuba1809/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [2460-apply-operations-to-an-array](https://github.com/Tuba1809/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/Tuba1809/LeetCode/tree/master/2562-find-the-array-concatenation-value) |
+| [3175-find-the-first-player-to-win-k-games-in-a-row](https://github.com/Tuba1809/LeetCode/tree/master/3175-find-the-first-player-to-win-k-games-in-a-row) |
 | [3477-fruits-into-baskets-ii](https://github.com/Tuba1809/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 ## Sorting
 |  |
