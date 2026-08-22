@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1800-maximum-ascending-subarray-sum](https://github.com/Tuba1809/LeetCode/tree/master/1800-maximum-ascending-subarray-sum) |
 | [2460-apply-operations-to-an-array](https://github.com/Tuba1809/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/Tuba1809/LeetCode/tree/master/2562-find-the-array-concatenation-value) |
+| [3076-shortest-uncommon-substring-in-an-array](https://github.com/Tuba1809/LeetCode/tree/master/3076-shortest-uncommon-substring-in-an-array) |
 | [3096-minimum-levels-to-gain-more-points](https://github.com/Tuba1809/LeetCode/tree/master/3096-minimum-levels-to-gain-more-points) |
 | [3132-find-the-integer-added-to-array-ii](https://github.com/Tuba1809/LeetCode/tree/master/3132-find-the-integer-added-to-array-ii) |
 | [3152-special-array-ii](https://github.com/Tuba1809/LeetCode/tree/master/3152-special-array-ii) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/Tuba1809/LeetCode/tree/master/1122-relative-sort-array) |
 | [1496-path-crossing](https://github.com/Tuba1809/LeetCode/tree/master/1496-path-crossing) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Tuba1809/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [3076-shortest-uncommon-substring-in-an-array](https://github.com/Tuba1809/LeetCode/tree/master/3076-shortest-uncommon-substring-in-an-array) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Tuba1809/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## String
 |  |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/Tuba1809/LeetCode/tree/master/1002-find-common-characters) |
 | [1496-path-crossing](https://github.com/Tuba1809/LeetCode/tree/master/1496-path-crossing) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Tuba1809/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [3076-shortest-uncommon-substring-in-an-array](https://github.com/Tuba1809/LeetCode/tree/master/3076-shortest-uncommon-substring-in-an-array) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Tuba1809/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Counting Sort
 |  |
@@ -110,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3132-find-the-integer-added-to-array-ii](https://github.com/Tuba1809/LeetCode/tree/master/3132-find-the-integer-added-to-array-ii) |
+## Trie
+|  |
+| ------- |
+| [3076-shortest-uncommon-substring-in-an-array](https://github.com/Tuba1809/LeetCode/tree/master/3076-shortest-uncommon-substring-in-an-array) |
 <!---LeetCode Topics End-->
