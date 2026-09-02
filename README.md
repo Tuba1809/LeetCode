@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1800-maximum-ascending-subarray-sum](https://github.com/Tuba1809/LeetCode/tree/master/1800-maximum-ascending-subarray-sum) |
 | [2460-apply-operations-to-an-array](https://github.com/Tuba1809/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/Tuba1809/LeetCode/tree/master/2562-find-the-array-concatenation-value) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Tuba1809/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Tuba1809/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3030-find-the-grid-of-region-average](https://github.com/Tuba1809/LeetCode/tree/master/3030-find-the-grid-of-region-average) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/Tuba1809/LeetCode/tree/master/3039-apply-operations-to-make-string-empty) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/Tuba1809/LeetCode/tree/master/1122-relative-sort-array) |
 | [1496-path-crossing](https://github.com/Tuba1809/LeetCode/tree/master/1496-path-crossing) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Tuba1809/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Tuba1809/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/Tuba1809/LeetCode/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/Tuba1809/LeetCode/tree/master/3071-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/Tuba1809/LeetCode/tree/master/3076-shortest-uncommon-substring-in-an-array) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Tuba1809/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Tuba1809/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Math
 |  |
 | ------- |
