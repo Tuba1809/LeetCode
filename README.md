@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/Tuba1809/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1688-count-of-matches-in-tournament](https://github.com/Tuba1809/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
+| [2579-count-total-number-of-colored-cells](https://github.com/Tuba1809/LeetCode/tree/master/2579-count-total-number-of-colored-cells) |
 | [3100-water-bottles-ii](https://github.com/Tuba1809/LeetCode/tree/master/3100-water-bottles-ii) |
 ## Matrix
 |  |
