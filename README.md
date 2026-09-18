@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Tuba1809/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Tuba1809/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Tuba1809/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1686-stone-game-vi](https://github.com/Tuba1809/LeetCode/tree/master/1686-stone-game-vi) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Tuba1809/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1765-map-of-highest-peak](https://github.com/Tuba1809/LeetCode/tree/master/1765-map-of-highest-peak) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Tuba1809/LeetCode/tree/master/1800-maximum-ascending-subarray-sum) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/Tuba1809/LeetCode/tree/master/1122-relative-sort-array) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Tuba1809/LeetCode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1424-diagonal-traverse-ii](https://github.com/Tuba1809/LeetCode/tree/master/1424-diagonal-traverse-ii) |
+| [1686-stone-game-vi](https://github.com/Tuba1809/LeetCode/tree/master/1686-stone-game-vi) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Tuba1809/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/Tuba1809/LeetCode/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3132-find-the-integer-added-to-array-ii](https://github.com/Tuba1809/LeetCode/tree/master/3132-find-the-integer-added-to-array-ii) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/Tuba1809/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
+| [1686-stone-game-vi](https://github.com/Tuba1809/LeetCode/tree/master/1686-stone-game-vi) |
 | [1688-count-of-matches-in-tournament](https://github.com/Tuba1809/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [2579-count-total-number-of-colored-cells](https://github.com/Tuba1809/LeetCode/tree/master/2579-count-total-number-of-colored-cells) |
 | [3100-water-bottles-ii](https://github.com/Tuba1809/LeetCode/tree/master/3100-water-bottles-ii) |
@@ -199,12 +202,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1424-diagonal-traverse-ii](https://github.com/Tuba1809/LeetCode/tree/master/1424-diagonal-traverse-ii) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Tuba1809/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1686-stone-game-vi](https://github.com/Tuba1809/LeetCode/tree/master/1686-stone-game-vi) |
 | [2353-design-a-food-rating-system](https://github.com/Tuba1809/LeetCode/tree/master/2353-design-a-food-rating-system) |
 ## Greedy
 |  |
 | ------- |
 | [0769-max-chunks-to-make-sorted](https://github.com/Tuba1809/LeetCode/tree/master/0769-max-chunks-to-make-sorted) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Tuba1809/LeetCode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1686-stone-game-vi](https://github.com/Tuba1809/LeetCode/tree/master/1686-stone-game-vi) |
 ## Stack
 |  |
 | ------- |
@@ -221,4 +226,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Tuba1809/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Minimax
+|  |
+| ------- |
+| [1686-stone-game-vi](https://github.com/Tuba1809/LeetCode/tree/master/1686-stone-game-vi) |
+## Game Theory
+|  |
+| ------- |
+| [1686-stone-game-vi](https://github.com/Tuba1809/LeetCode/tree/master/1686-stone-game-vi) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1686-stone-game-vi](https://github.com/Tuba1809/LeetCode/tree/master/1686-stone-game-vi) |
 <!---LeetCode Topics End-->
