@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3208-alternating-groups-ii](https://github.com/Tuba1809/LeetCode/tree/master/3208-alternating-groups-ii) |
 | [3394-check-if-grid-can-be-cut-into-sections](https://github.com/Tuba1809/LeetCode/tree/master/3394-check-if-grid-can-be-cut-into-sections) |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/Tuba1809/LeetCode/tree/master/3424-minimum-cost-to-make-arrays-identical) |
+| [3433-count-mentions-per-user](https://github.com/Tuba1809/LeetCode/tree/master/3433-count-mentions-per-user) |
 | [3477-fruits-into-baskets-ii](https://github.com/Tuba1809/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 ## Two Pointers
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2562-find-the-array-concatenation-value](https://github.com/Tuba1809/LeetCode/tree/master/2562-find-the-array-concatenation-value) |
 | [3100-water-bottles-ii](https://github.com/Tuba1809/LeetCode/tree/master/3100-water-bottles-ii) |
 | [3175-find-the-first-player-to-win-k-games-in-a-row](https://github.com/Tuba1809/LeetCode/tree/master/3175-find-the-first-player-to-win-k-games-in-a-row) |
+| [3433-count-mentions-per-user](https://github.com/Tuba1809/LeetCode/tree/master/3433-count-mentions-per-user) |
 | [3477-fruits-into-baskets-ii](https://github.com/Tuba1809/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 ## Sorting
 |  |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3132-find-the-integer-added-to-array-ii](https://github.com/Tuba1809/LeetCode/tree/master/3132-find-the-integer-added-to-array-ii) |
 | [3394-check-if-grid-can-be-cut-into-sections](https://github.com/Tuba1809/LeetCode/tree/master/3394-check-if-grid-can-be-cut-into-sections) |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/Tuba1809/LeetCode/tree/master/3424-minimum-cost-to-make-arrays-identical) |
+| [3433-count-mentions-per-user](https://github.com/Tuba1809/LeetCode/tree/master/3433-count-mentions-per-user) |
 ## Hash Table
 |  |
 | ------- |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/Tuba1809/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [2579-count-total-number-of-colored-cells](https://github.com/Tuba1809/LeetCode/tree/master/2579-count-total-number-of-colored-cells) |
 | [3100-water-bottles-ii](https://github.com/Tuba1809/LeetCode/tree/master/3100-water-bottles-ii) |
+| [3433-count-mentions-per-user](https://github.com/Tuba1809/LeetCode/tree/master/3433-count-mentions-per-user) |
 ## Matrix
 |  |
 | ------- |
