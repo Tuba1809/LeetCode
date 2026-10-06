@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Tuba1809/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1424-diagonal-traverse-ii](https://github.com/Tuba1809/LeetCode/tree/master/1424-diagonal-traverse-ii) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Tuba1809/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Tuba1809/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Tuba1809/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Tuba1809/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Tuba1809/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/Tuba1809/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Tuba1809/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Tuba1809/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Tuba1809/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1686-stone-game-vi](https://github.com/Tuba1809/LeetCode/tree/master/1686-stone-game-vi) |
 | [1688-count-of-matches-in-tournament](https://github.com/Tuba1809/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Tuba1809/LeetCode/tree/master/0525-contiguous-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Tuba1809/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Tuba1809/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Tuba1809/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Tuba1809/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2017-grid-game](https://github.com/Tuba1809/LeetCode/tree/master/2017-grid-game) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Tuba1809/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -293,4 +296,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/Tuba1809/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Tuba1809/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 <!---LeetCode Topics End-->
