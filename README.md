@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Tuba1809/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Tuba1809/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Tuba1809/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0169-majority-element](https://github.com/Tuba1809/LeetCode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Tuba1809/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/Tuba1809/LeetCode/tree/master/0525-contiguous-array) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Tuba1809/LeetCode/tree/master/0769-max-chunks-to-make-sorted) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Tuba1809/LeetCode/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/Tuba1809/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Tuba1809/LeetCode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/Tuba1809/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tuba1809/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/Tuba1809/LeetCode/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/Tuba1809/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0525-contiguous-array](https://github.com/Tuba1809/LeetCode/tree/master/0525-contiguous-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Tuba1809/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Tuba1809/LeetCode/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/Tuba1809/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1122-relative-sort-array](https://github.com/Tuba1809/LeetCode/tree/master/1122-relative-sort-array) |
 | [1267-count-servers-that-communicate](https://github.com/Tuba1809/LeetCode/tree/master/1267-count-servers-that-communicate) |
@@ -305,4 +309,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Tuba1809/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Tuba1809/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Tuba1809/LeetCode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Tuba1809/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
