@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Tuba1809/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0169-majority-element](https://github.com/Tuba1809/LeetCode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Tuba1809/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Tuba1809/LeetCode/tree/master/0268-missing-number) |
 | [0525-contiguous-array](https://github.com/Tuba1809/LeetCode/tree/master/0525-contiguous-array) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Tuba1809/LeetCode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Tuba1809/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Tuba1809/LeetCode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Tuba1809/LeetCode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Tuba1809/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Tuba1809/LeetCode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/Tuba1809/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tuba1809/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Tuba1809/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Tuba1809/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0268-missing-number](https://github.com/Tuba1809/LeetCode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Tuba1809/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0525-contiguous-array](https://github.com/Tuba1809/LeetCode/tree/master/0525-contiguous-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Tuba1809/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -148,12 +151,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Tuba1809/LeetCode/tree/master/0268-missing-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Tuba1809/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2568-minimum-impossible-or](https://github.com/Tuba1809/LeetCode/tree/master/2568-minimum-impossible-or) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Tuba1809/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Tuba1809/LeetCode/tree/master/0268-missing-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Tuba1809/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Tuba1809/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Tuba1809/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -185,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Tuba1809/LeetCode/tree/master/0268-missing-number) |
 | [2540-minimum-common-value](https://github.com/Tuba1809/LeetCode/tree/master/2540-minimum-common-value) |
 | [3152-special-array-ii](https://github.com/Tuba1809/LeetCode/tree/master/3152-special-array-ii) |
 | [3477-fruits-into-baskets-ii](https://github.com/Tuba1809/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
