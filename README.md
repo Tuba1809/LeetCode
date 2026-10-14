@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3152-special-array-ii](https://github.com/Tuba1809/LeetCode/tree/master/3152-special-array-ii) |
 | [3175-find-the-first-player-to-win-k-games-in-a-row](https://github.com/Tuba1809/LeetCode/tree/master/3175-find-the-first-player-to-win-k-games-in-a-row) |
 | [3208-alternating-groups-ii](https://github.com/Tuba1809/LeetCode/tree/master/3208-alternating-groups-ii) |
+| [3371-identify-the-largest-outlier-in-an-array](https://github.com/Tuba1809/LeetCode/tree/master/3371-identify-the-largest-outlier-in-an-array) |
 | [3394-check-if-grid-can-be-cut-into-sections](https://github.com/Tuba1809/LeetCode/tree/master/3394-check-if-grid-can-be-cut-into-sections) |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/Tuba1809/LeetCode/tree/master/3424-minimum-cost-to-make-arrays-identical) |
 | [3433-count-mentions-per-user](https://github.com/Tuba1809/LeetCode/tree/master/3433-count-mentions-per-user) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/Tuba1809/LeetCode/tree/master/3071-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/Tuba1809/LeetCode/tree/master/3076-shortest-uncommon-substring-in-an-array) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Tuba1809/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3371-identify-the-largest-outlier-in-an-array](https://github.com/Tuba1809/LeetCode/tree/master/3371-identify-the-largest-outlier-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1726-tuple-with-same-product](https://github.com/Tuba1809/LeetCode/tree/master/1726-tuple-with-same-product) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/Tuba1809/LeetCode/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/Tuba1809/LeetCode/tree/master/3071-minimum-operations-to-write-the-letter-y-on-a-grid) |
+| [3371-identify-the-largest-outlier-in-an-array](https://github.com/Tuba1809/LeetCode/tree/master/3371-identify-the-largest-outlier-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3132-find-the-integer-added-to-array-ii](https://github.com/Tuba1809/LeetCode/tree/master/3132-find-the-integer-added-to-array-ii) |
+| [3371-identify-the-largest-outlier-in-an-array](https://github.com/Tuba1809/LeetCode/tree/master/3371-identify-the-largest-outlier-in-an-array) |
 | [3440-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Tuba1809/LeetCode/tree/master/3440-reschedule-meetings-for-maximum-free-time-ii) |
 ## Trie
 |  |
