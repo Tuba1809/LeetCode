@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/Tuba1809/LeetCode/tree/master/3071-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/Tuba1809/LeetCode/tree/master/3076-shortest-uncommon-substring-in-an-array) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Tuba1809/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3223-minimum-length-of-string-after-operations](https://github.com/Tuba1809/LeetCode/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/Tuba1809/LeetCode/tree/master/3371-identify-the-largest-outlier-in-an-array) |
 ## String
 |  |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2353-design-a-food-rating-system](https://github.com/Tuba1809/LeetCode/tree/master/2353-design-a-food-rating-system) |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/Tuba1809/LeetCode/tree/master/3076-shortest-uncommon-substring-in-an-array) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Tuba1809/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3223-minimum-length-of-string-after-operations](https://github.com/Tuba1809/LeetCode/tree/master/3223-minimum-length-of-string-after-operations) |
 ## Counting Sort
 |  |
 | ------- |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1726-tuple-with-same-product](https://github.com/Tuba1809/LeetCode/tree/master/1726-tuple-with-same-product) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/Tuba1809/LeetCode/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/Tuba1809/LeetCode/tree/master/3071-minimum-operations-to-write-the-letter-y-on-a-grid) |
+| [3223-minimum-length-of-string-after-operations](https://github.com/Tuba1809/LeetCode/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/Tuba1809/LeetCode/tree/master/3371-identify-the-largest-outlier-in-an-array) |
 ## Bit Manipulation
 |  |
