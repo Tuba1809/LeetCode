@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3096-minimum-levels-to-gain-more-points](https://github.com/Tuba1809/LeetCode/tree/master/3096-minimum-levels-to-gain-more-points) |
 | [3132-find-the-integer-added-to-array-ii](https://github.com/Tuba1809/LeetCode/tree/master/3132-find-the-integer-added-to-array-ii) |
 | [3152-special-array-ii](https://github.com/Tuba1809/LeetCode/tree/master/3152-special-array-ii) |
+| [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Tuba1809/LeetCode/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 | [3175-find-the-first-player-to-win-k-games-in-a-row](https://github.com/Tuba1809/LeetCode/tree/master/3175-find-the-first-player-to-win-k-games-in-a-row) |
 | [3208-alternating-groups-ii](https://github.com/Tuba1809/LeetCode/tree/master/3208-alternating-groups-ii) |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/Tuba1809/LeetCode/tree/master/3371-identify-the-largest-outlier-in-an-array) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2460-apply-operations-to-an-array](https://github.com/Tuba1809/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/Tuba1809/LeetCode/tree/master/2562-find-the-array-concatenation-value) |
 | [3100-water-bottles-ii](https://github.com/Tuba1809/LeetCode/tree/master/3100-water-bottles-ii) |
+| [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Tuba1809/LeetCode/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 | [3175-find-the-first-player-to-win-k-games-in-a-row](https://github.com/Tuba1809/LeetCode/tree/master/3175-find-the-first-player-to-win-k-games-in-a-row) |
 | [3433-count-mentions-per-user](https://github.com/Tuba1809/LeetCode/tree/master/3433-count-mentions-per-user) |
 | [3477-fruits-into-baskets-ii](https://github.com/Tuba1809/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/Tuba1809/LeetCode/tree/master/3071-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/Tuba1809/LeetCode/tree/master/3076-shortest-uncommon-substring-in-an-array) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Tuba1809/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Tuba1809/LeetCode/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/Tuba1809/LeetCode/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/Tuba1809/LeetCode/tree/master/3371-identify-the-largest-outlier-in-an-array) |
 ## String
