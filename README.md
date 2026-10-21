@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Tuba1809/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Tuba1809/LeetCode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Tuba1809/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3026-maximum-good-subarray-sum](https://github.com/Tuba1809/LeetCode/tree/master/3026-maximum-good-subarray-sum) |
 | [3030-find-the-grid-of-region-average](https://github.com/Tuba1809/LeetCode/tree/master/3030-find-the-grid-of-region-average) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/Tuba1809/LeetCode/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Tuba1809/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2353-design-a-food-rating-system](https://github.com/Tuba1809/LeetCode/tree/master/2353-design-a-food-rating-system) |
 | [2540-minimum-common-value](https://github.com/Tuba1809/LeetCode/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Tuba1809/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3026-maximum-good-subarray-sum](https://github.com/Tuba1809/LeetCode/tree/master/3026-maximum-good-subarray-sum) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/Tuba1809/LeetCode/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/Tuba1809/LeetCode/tree/master/3071-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/Tuba1809/LeetCode/tree/master/3076-shortest-uncommon-substring-in-an-array) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Tuba1809/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Tuba1809/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2017-grid-game](https://github.com/Tuba1809/LeetCode/tree/master/2017-grid-game) |
+| [3026-maximum-good-subarray-sum](https://github.com/Tuba1809/LeetCode/tree/master/3026-maximum-good-subarray-sum) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Tuba1809/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3096-minimum-levels-to-gain-more-points](https://github.com/Tuba1809/LeetCode/tree/master/3096-minimum-levels-to-gain-more-points) |
 | [3152-special-array-ii](https://github.com/Tuba1809/LeetCode/tree/master/3152-special-array-ii) |
