@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Tuba1809/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Tuba1809/LeetCode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Tuba1809/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Tuba1809/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3026-maximum-good-subarray-sum](https://github.com/Tuba1809/LeetCode/tree/master/3026-maximum-good-subarray-sum) |
 | [3030-find-the-grid-of-region-average](https://github.com/Tuba1809/LeetCode/tree/master/3030-find-the-grid-of-region-average) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/Tuba1809/LeetCode/tree/master/3039-apply-operations-to-make-string-empty) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2353-design-a-food-rating-system](https://github.com/Tuba1809/LeetCode/tree/master/2353-design-a-food-rating-system) |
 | [2540-minimum-common-value](https://github.com/Tuba1809/LeetCode/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Tuba1809/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Tuba1809/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3026-maximum-good-subarray-sum](https://github.com/Tuba1809/LeetCode/tree/master/3026-maximum-good-subarray-sum) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/Tuba1809/LeetCode/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/Tuba1809/LeetCode/tree/master/3071-minimum-operations-to-write-the-letter-y-on-a-grid) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Tuba1809/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3132-find-the-integer-added-to-array-ii](https://github.com/Tuba1809/LeetCode/tree/master/3132-find-the-integer-added-to-array-ii) |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/Tuba1809/LeetCode/tree/master/3371-identify-the-largest-outlier-in-an-array) |
 | [3440-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Tuba1809/LeetCode/tree/master/3440-reschedule-meetings-for-maximum-free-time-ii) |
