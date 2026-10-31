@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/Tuba1809/LeetCode/tree/master/2540-minimum-common-value) |
 | [2562-find-the-array-concatenation-value](https://github.com/Tuba1809/LeetCode/tree/master/2562-find-the-array-concatenation-value) |
 | [2568-minimum-impossible-or](https://github.com/Tuba1809/LeetCode/tree/master/2568-minimum-impossible-or) |
+| [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Tuba1809/LeetCode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Tuba1809/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Tuba1809/LeetCode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Tuba1809/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2352-equal-row-and-column-pairs](https://github.com/Tuba1809/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2353-design-a-food-rating-system](https://github.com/Tuba1809/LeetCode/tree/master/2353-design-a-food-rating-system) |
 | [2540-minimum-common-value](https://github.com/Tuba1809/LeetCode/tree/master/2540-minimum-common-value) |
+| [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Tuba1809/LeetCode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Tuba1809/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Tuba1809/LeetCode/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Tuba1809/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
