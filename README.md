@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1726-tuple-with-same-product](https://github.com/Tuba1809/LeetCode/tree/master/1726-tuple-with-same-product) |
 | [2352-equal-row-and-column-pairs](https://github.com/Tuba1809/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2353-design-a-food-rating-system](https://github.com/Tuba1809/LeetCode/tree/master/2353-design-a-food-rating-system) |
+| [2405-optimal-partition-of-string](https://github.com/Tuba1809/LeetCode/tree/master/2405-optimal-partition-of-string) |
 | [2540-minimum-common-value](https://github.com/Tuba1809/LeetCode/tree/master/2540-minimum-common-value) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Tuba1809/LeetCode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Tuba1809/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/Tuba1809/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Tuba1809/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2353-design-a-food-rating-system](https://github.com/Tuba1809/LeetCode/tree/master/2353-design-a-food-rating-system) |
+| [2405-optimal-partition-of-string](https://github.com/Tuba1809/LeetCode/tree/master/2405-optimal-partition-of-string) |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Tuba1809/LeetCode/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/Tuba1809/LeetCode/tree/master/3076-shortest-uncommon-substring-in-an-array) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Tuba1809/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1686-stone-game-vi](https://github.com/Tuba1809/LeetCode/tree/master/1686-stone-game-vi) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Tuba1809/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Tuba1809/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2405-optimal-partition-of-string](https://github.com/Tuba1809/LeetCode/tree/master/2405-optimal-partition-of-string) |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/Tuba1809/LeetCode/tree/master/3424-minimum-cost-to-make-arrays-identical) |
 | [3440-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Tuba1809/LeetCode/tree/master/3440-reschedule-meetings-for-maximum-free-time-ii) |
 ## Stack
