@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2017-grid-game](https://github.com/Tuba1809/LeetCode/tree/master/2017-grid-game) |
 | [2352-equal-row-and-column-pairs](https://github.com/Tuba1809/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2353-design-a-food-rating-system](https://github.com/Tuba1809/LeetCode/tree/master/2353-design-a-food-rating-system) |
+| [2364-count-number-of-bad-pairs](https://github.com/Tuba1809/LeetCode/tree/master/2364-count-number-of-bad-pairs) |
 | [2460-apply-operations-to-an-array](https://github.com/Tuba1809/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 | [2540-minimum-common-value](https://github.com/Tuba1809/LeetCode/tree/master/2540-minimum-common-value) |
 | [2562-find-the-array-concatenation-value](https://github.com/Tuba1809/LeetCode/tree/master/2562-find-the-array-concatenation-value) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1726-tuple-with-same-product](https://github.com/Tuba1809/LeetCode/tree/master/1726-tuple-with-same-product) |
 | [2352-equal-row-and-column-pairs](https://github.com/Tuba1809/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2353-design-a-food-rating-system](https://github.com/Tuba1809/LeetCode/tree/master/2353-design-a-food-rating-system) |
+| [2364-count-number-of-bad-pairs](https://github.com/Tuba1809/LeetCode/tree/master/2364-count-number-of-bad-pairs) |
 | [2405-optimal-partition-of-string](https://github.com/Tuba1809/LeetCode/tree/master/2405-optimal-partition-of-string) |
 | [2540-minimum-common-value](https://github.com/Tuba1809/LeetCode/tree/master/2540-minimum-common-value) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Tuba1809/LeetCode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/Tuba1809/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Tuba1809/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1726-tuple-with-same-product](https://github.com/Tuba1809/LeetCode/tree/master/1726-tuple-with-same-product) |
+| [2364-count-number-of-bad-pairs](https://github.com/Tuba1809/LeetCode/tree/master/2364-count-number-of-bad-pairs) |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Tuba1809/LeetCode/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/Tuba1809/LeetCode/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/Tuba1809/LeetCode/tree/master/3071-minimum-operations-to-write-the-letter-y-on-a-grid) |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Tuba1809/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1686-stone-game-vi](https://github.com/Tuba1809/LeetCode/tree/master/1686-stone-game-vi) |
 | [1688-count-of-matches-in-tournament](https://github.com/Tuba1809/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
+| [2364-count-number-of-bad-pairs](https://github.com/Tuba1809/LeetCode/tree/master/2364-count-number-of-bad-pairs) |
 | [2579-count-total-number-of-colored-cells](https://github.com/Tuba1809/LeetCode/tree/master/2579-count-total-number-of-colored-cells) |
 | [3100-water-bottles-ii](https://github.com/Tuba1809/LeetCode/tree/master/3100-water-bottles-ii) |
 | [3101-count-alternating-subarrays](https://github.com/Tuba1809/LeetCode/tree/master/3101-count-alternating-subarrays) |
