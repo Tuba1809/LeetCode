@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-path-crossing](https://github.com/Tuba1809/LeetCode/tree/master/1496-path-crossing) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Tuba1809/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1726-tuple-with-same-product](https://github.com/Tuba1809/LeetCode/tree/master/1726-tuple-with-same-product) |
+| [2349-design-a-number-container-system](https://github.com/Tuba1809/LeetCode/tree/master/2349-design-a-number-container-system) |
 | [2352-equal-row-and-column-pairs](https://github.com/Tuba1809/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2353-design-a-food-rating-system](https://github.com/Tuba1809/LeetCode/tree/master/2353-design-a-food-rating-system) |
 | [2364-count-number-of-bad-pairs](https://github.com/Tuba1809/LeetCode/tree/master/2364-count-number-of-bad-pairs) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Tuba1809/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2349-design-a-number-container-system](https://github.com/Tuba1809/LeetCode/tree/master/2349-design-a-number-container-system) |
 | [2353-design-a-food-rating-system](https://github.com/Tuba1809/LeetCode/tree/master/2353-design-a-food-rating-system) |
 | [3477-fruits-into-baskets-ii](https://github.com/Tuba1809/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 ## Sliding Window
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/Tuba1809/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
+| [2349-design-a-number-container-system](https://github.com/Tuba1809/LeetCode/tree/master/2349-design-a-number-container-system) |
 | [2353-design-a-food-rating-system](https://github.com/Tuba1809/LeetCode/tree/master/2353-design-a-food-rating-system) |
 ## Heap (Priority Queue)
 |  |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-diagonal-traverse-ii](https://github.com/Tuba1809/LeetCode/tree/master/1424-diagonal-traverse-ii) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Tuba1809/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1686-stone-game-vi](https://github.com/Tuba1809/LeetCode/tree/master/1686-stone-game-vi) |
+| [2349-design-a-number-container-system](https://github.com/Tuba1809/LeetCode/tree/master/2349-design-a-number-container-system) |
 | [2353-design-a-food-rating-system](https://github.com/Tuba1809/LeetCode/tree/master/2353-design-a-food-rating-system) |
 ## Greedy
 |  |
