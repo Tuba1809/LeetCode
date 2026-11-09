@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Tuba1809/LeetCode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Tuba1809/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Tuba1809/LeetCode/tree/master/0268-missing-number) |
+| [0523-continuous-subarray-sum](https://github.com/Tuba1809/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Tuba1809/LeetCode/tree/master/0525-contiguous-array) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Tuba1809/LeetCode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Tuba1809/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Tuba1809/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/Tuba1809/LeetCode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Tuba1809/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0523-continuous-subarray-sum](https://github.com/Tuba1809/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Tuba1809/LeetCode/tree/master/0525-contiguous-array) |
 | [0791-custom-sort-string](https://github.com/Tuba1809/LeetCode/tree/master/0791-custom-sort-string) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Tuba1809/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Tuba1809/LeetCode/tree/master/0268-missing-number) |
+| [0523-continuous-subarray-sum](https://github.com/Tuba1809/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Tuba1809/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Tuba1809/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Tuba1809/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Tuba1809/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/Tuba1809/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Tuba1809/LeetCode/tree/master/0525-contiguous-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Tuba1809/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Tuba1809/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
@@ -376,4 +380,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Tuba1809/LeetCode/tree/master/0169-majority-element) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/Tuba1809/LeetCode/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
