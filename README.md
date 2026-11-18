@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Tuba1809/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Tuba1809/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1002-find-common-characters](https://github.com/Tuba1809/LeetCode/tree/master/1002-find-common-characters) |
+| [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Tuba1809/LeetCode/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
 | [1122-relative-sort-array](https://github.com/Tuba1809/LeetCode/tree/master/1122-relative-sort-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Tuba1809/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1267-count-servers-that-communicate](https://github.com/Tuba1809/LeetCode/tree/master/1267-count-servers-that-communicate) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/Tuba1809/LeetCode/tree/master/0791-custom-sort-string) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Tuba1809/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1002-find-common-characters](https://github.com/Tuba1809/LeetCode/tree/master/1002-find-common-characters) |
+| [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Tuba1809/LeetCode/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
 | [1122-relative-sort-array](https://github.com/Tuba1809/LeetCode/tree/master/1122-relative-sort-array) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Tuba1809/LeetCode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Tuba1809/LeetCode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Tuba1809/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Tuba1809/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Tuba1809/LeetCode/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
 | [1267-count-servers-that-communicate](https://github.com/Tuba1809/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Tuba1809/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Tuba1809/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
