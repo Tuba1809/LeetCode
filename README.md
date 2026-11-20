@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-path-crossing](https://github.com/Tuba1809/LeetCode/tree/master/1496-path-crossing) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Tuba1809/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1726-tuple-with-same-product](https://github.com/Tuba1809/LeetCode/tree/master/1726-tuple-with-same-product) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Tuba1809/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Tuba1809/LeetCode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2349-design-a-number-container-system](https://github.com/Tuba1809/LeetCode/tree/master/2349-design-a-number-container-system) |
 | [2352-equal-row-and-column-pairs](https://github.com/Tuba1809/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-path-crossing](https://github.com/Tuba1809/LeetCode/tree/master/1496-path-crossing) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Tuba1809/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Tuba1809/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Tuba1809/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2353-design-a-food-rating-system](https://github.com/Tuba1809/LeetCode/tree/master/2353-design-a-food-rating-system) |
 | [2405-optimal-partition-of-string](https://github.com/Tuba1809/LeetCode/tree/master/2405-optimal-partition-of-string) |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Tuba1809/LeetCode/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Tuba1809/LeetCode/tree/master/0268-missing-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Tuba1809/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Tuba1809/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2568-minimum-impossible-or](https://github.com/Tuba1809/LeetCode/tree/master/2568-minimum-impossible-or) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Tuba1809/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Math
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-product-of-the-last-k-numbers](https://github.com/Tuba1809/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Tuba1809/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Tuba1809/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Tuba1809/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2017-grid-game](https://github.com/Tuba1809/LeetCode/tree/master/2017-grid-game) |
 | [3026-maximum-good-subarray-sum](https://github.com/Tuba1809/LeetCode/tree/master/3026-maximum-good-subarray-sum) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Tuba1809/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
