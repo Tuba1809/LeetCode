@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3223-minimum-length-of-string-after-operations](https://github.com/Tuba1809/LeetCode/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/Tuba1809/LeetCode/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/Tuba1809/LeetCode/tree/master/3371-identify-the-largest-outlier-in-an-array) |
+| [3443-maximum-manhattan-distance-after-k-changes](https://github.com/Tuba1809/LeetCode/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
 ## String
 |  |
 | ------- |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Tuba1809/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/Tuba1809/LeetCode/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/Tuba1809/LeetCode/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
+| [3443-maximum-manhattan-distance-after-k-changes](https://github.com/Tuba1809/LeetCode/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
 ## Counting Sort
 |  |
 | ------- |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/Tuba1809/LeetCode/tree/master/3071-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/Tuba1809/LeetCode/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/Tuba1809/LeetCode/tree/master/3371-identify-the-largest-outlier-in-an-array) |
+| [3443-maximum-manhattan-distance-after-k-changes](https://github.com/Tuba1809/LeetCode/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3100-water-bottles-ii](https://github.com/Tuba1809/LeetCode/tree/master/3100-water-bottles-ii) |
 | [3101-count-alternating-subarrays](https://github.com/Tuba1809/LeetCode/tree/master/3101-count-alternating-subarrays) |
 | [3433-count-mentions-per-user](https://github.com/Tuba1809/LeetCode/tree/master/3433-count-mentions-per-user) |
+| [3443-maximum-manhattan-distance-after-k-changes](https://github.com/Tuba1809/LeetCode/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
 ## Matrix
 |  |
 | ------- |
