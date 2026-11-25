@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/Tuba1809/LeetCode/tree/master/3424-minimum-cost-to-make-arrays-identical) |
 | [3433-count-mentions-per-user](https://github.com/Tuba1809/LeetCode/tree/master/3433-count-mentions-per-user) |
 | [3440-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Tuba1809/LeetCode/tree/master/3440-reschedule-meetings-for-maximum-free-time-ii) |
+| [3447-assign-elements-to-groups-with-constraints](https://github.com/Tuba1809/LeetCode/tree/master/3447-assign-elements-to-groups-with-constraints) |
 | [3477-fruits-into-baskets-ii](https://github.com/Tuba1809/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 ## Two Pointers
 |  |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/Tuba1809/LeetCode/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/Tuba1809/LeetCode/tree/master/3371-identify-the-largest-outlier-in-an-array) |
 | [3443-maximum-manhattan-distance-after-k-changes](https://github.com/Tuba1809/LeetCode/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
+| [3447-assign-elements-to-groups-with-constraints](https://github.com/Tuba1809/LeetCode/tree/master/3447-assign-elements-to-groups-with-constraints) |
 ## String
 |  |
 | ------- |
