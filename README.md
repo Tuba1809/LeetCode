@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1686-stone-game-vi](https://github.com/Tuba1809/LeetCode/tree/master/1686-stone-game-vi) |
 | [1688-count-of-matches-in-tournament](https://github.com/Tuba1809/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [2364-count-number-of-bad-pairs](https://github.com/Tuba1809/LeetCode/tree/master/2364-count-number-of-bad-pairs) |
+| [2485-find-the-pivot-integer](https://github.com/Tuba1809/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [2579-count-total-number-of-colored-cells](https://github.com/Tuba1809/LeetCode/tree/master/2579-count-total-number-of-colored-cells) |
 | [3100-water-bottles-ii](https://github.com/Tuba1809/LeetCode/tree/master/3100-water-bottles-ii) |
 | [3101-count-alternating-subarrays](https://github.com/Tuba1809/LeetCode/tree/master/3101-count-alternating-subarrays) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Tuba1809/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Tuba1809/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2017-grid-game](https://github.com/Tuba1809/LeetCode/tree/master/2017-grid-game) |
+| [2485-find-the-pivot-integer](https://github.com/Tuba1809/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [3026-maximum-good-subarray-sum](https://github.com/Tuba1809/LeetCode/tree/master/3026-maximum-good-subarray-sum) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Tuba1809/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3096-minimum-levels-to-gain-more-points](https://github.com/Tuba1809/LeetCode/tree/master/3096-minimum-levels-to-gain-more-points) |
